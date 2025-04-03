@@ -2,6 +2,10 @@
 
 ---
 
+![Showcase Picture of CTkExtendedGraph](demo_picture.png)
+
+---
+
 ## Description
 
 CTkExtendedGraph is a CustomTkinter widget that allows you to display a stacked bar chart in a flexible and customizable manner. It is built on top of the matplotlib library and can be easily integrated into any Tkinter-based GUI application. You can use it to visualize data with two categories (e.g., Solar vs Grid energy consumption) and dynamically add new data entries.
